@@ -1,0 +1,1 @@
+Cursor IDE will guide Arif step by step to create a QGIS project based on Wimmera (Victoria, Australia) demonstrating key features of GeoAI
